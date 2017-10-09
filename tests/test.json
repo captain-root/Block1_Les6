@@ -1,0 +1,27 @@
+[
+  {
+      "question":"What a color of the Sun","answers" : {
+        "0": "Red",
+        "1": "Yellow",
+        "2": "Orange"
+       },
+       "correct_answer": "1"
+  }, 
+
+  {  "question":"What a color of ice?", "answers": {
+        "0": "Yellow",
+        "1": "Black",
+        "2": "White"
+      },
+      "correct_answer": "2"
+  },
+    
+  {
+      "question":"What a color of coil?", "answers": {
+        "0": "Yellow",
+        "1": "Black",
+        "2": "Silver"
+      },
+      "correct_answer": "1"
+  }
+]

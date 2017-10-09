@@ -1,0 +1,23 @@
+[
+		{
+		"question": "How many 10*10?",
+		"answers": {
+			"0": "100",
+			"1": "1000",
+			"2": "10",
+			"3": "85"
+		},
+		"correct_answer": "0"
+	}, 
+	{
+		"question": "What is year today?",
+		"answers": {
+			"0": "1999",
+			"1": "2008",
+			"2": "2014",
+			"3": "2017"
+		},
+		"correct_answer": "3"
+	}, 
+
+]
